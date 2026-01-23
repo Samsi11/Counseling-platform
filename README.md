@@ -2,6 +2,8 @@
 
 ## Student Information
 - **Name:** NJUNG GLORIOUS SAMSIMBOM
+- **Matricule:** ICTU20241321
+- **Name:** MBELI CALEB AKEN
 - **Matricule:** ICTU20241398
 - **Course:** Software Design And Modelling
 - **Submission Date:** January 2026
@@ -425,3 +427,4 @@ This project successfully implements all core requirements for a functional coun
 **Last Updated:** January 5, 2026  
 **Version:** 1.0.0  
 **Status:** Completed ✅
+
